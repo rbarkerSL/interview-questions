@@ -43,14 +43,10 @@ Your task is to configure a GitHub Actions workflow that automates the following
    - Propose a strategy for validating the published JAR in a real scenario (e.g., running integration tests against the artifact).
 
 ### **Time Frame:**
-You have 2-4 hours to complete this task.
+This task should take about 2-4 hours to complete. We typically give 2 working days to complete the task.
 
 ### **Evaluation Criteria:**
 - **Pipeline Design:** The clarity and completeness of your pipeline design, ensuring it covers all necessary steps.
 - **Workflow Configuration:** The accuracy and quality of your GitHub Actions workflow, including how well it integrates with Gradle.
 - **Problem-Solving:** Your ability to address potential challenges and propose solutions for reliable and efficient JAR handling.
 - **Bonus Solutions:** Creativity in proposing solutions for rollback automation and artifact validation.
-
----
-
-This question is designed to assess your ability to set up a basic but functional CI/CD pipeline using Gradle and GitHub Actions. It focuses on core skills such as build automation, testing, and basic versioning while allowing room for additional discussion on more advanced topics like publishing and rollback strategies.
